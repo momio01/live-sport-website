@@ -107,4 +107,46 @@ button {
     text-align: center;
     padding: 15px 40px;
     font-size: 20px;
+
+}
+
+.blogs {
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+}
+
+.artical-box {
+
+    height: 230px;
+    width: 320px;
+    margin: 0px 140px;
+    border-radius: 10px;
+    border: 1px solid rgb(240, 238, 235);
+    padding-top: 5px;
+}
+
+.img-box {
+
+    display: flex;
+    margin: 30px 40px;
+
+}
+
+.img-box p {
+
+    margin: 20px 20px;
+}
+
+.artical-box h1 {
+
+    font-size: 20px;
+    text-align: center;
+
+
+}
+
+.artical-box p {
+    text-align: center;
 }
