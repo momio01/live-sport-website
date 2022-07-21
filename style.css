@@ -1,0 +1,110 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.header {
+    display: flex;
+    height: 610px;
+    width: 1300px;
+    margin: 50px auto;
+    border-radius: 30px;
+    background-color: black;
+}
+
+
+.header-style {
+    padding-left: 50px;
+}
+
+.banner-header {
+    color: #FFFFFF;
+    font-size: 4em;
+    margin: 50px 50px;
+
+}
+
+.banner-image1 img {
+    width: 100%;
+}
+
+.paragrap {
+    color: #FFFFFF;
+    font-size: 16px;
+    margin: 40px 50px;
+}
+
+button {
+    background-color: red;
+    width: 187px;
+    height: 56px;
+    border-radius: 5px;
+    margin: 0px 50px;
+    color: #FFFFFF;
+    font-size: 18px;
+
+
+}
+
+.img {
+    width: 530px;
+    padding: 53px 70px;
+
+
+}
+
+.box {
+
+    height: 300px;
+    width: 320px;
+    margin: 0px 140px;
+    border-radius: 10px;
+    background-color: rgb(12, 10, 10);
+    padding-top: 5px;
+
+
+}
+
+.box1 {
+    height: 60px;
+    width: 260px;
+    margin: 30px auto;
+    background-color: rgb(231, 17, 17);
+    border-radius: 10px;
+}
+
+.box2 {
+    height: 60px;
+    width: 260px;
+    margin: 30px auto;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.box3 {
+
+    height: 60px;
+    width: 260px;
+    margin: 30px auto;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.box1 h2 {
+    text-align: center;
+    color: #FFFFFF;
+    padding: 15px 40px;
+    font-size: 20px;
+}
+
+.box2 h2 {
+    text-align: center;
+    padding: 15px 40px;
+    font-size: 20px;
+}
+
+.box3 h2 {
+    text-align: center;
+    padding: 15px 40px;
+    font-size: 20px;
+}
